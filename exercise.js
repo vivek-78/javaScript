@@ -54,7 +54,7 @@ var library = [
       {
           console.log(height*Math.PI*radius*radius.toFixed(4));
       }
-    }
+    } 
 
     cylinder1 = new cylinder(7,2);
     cylinder1.volume();
